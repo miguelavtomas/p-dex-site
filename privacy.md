@@ -10,7 +10,7 @@ P-Dex does not collect, store or share any personal data. There are no accounts,
 
 ## Your collection
 
-Your collection lives only on your device. This includes the cards you own or want, copies, conditions, notes and settings. The P-Dex home-screen widget reads a summary of it from the same device. If you export a backup, the file goes wherever you choose to save it, such as Files or iCloud Drive, and P-Dex never sees it.
+Your collection is kept on your device. This includes the cards you own or want, copies, conditions, notes and settings. If you're signed in to iCloud, P-Dex also keeps a copy in your own iCloud account (iCloud key-value storage), so your other devices on the same Apple Account share the same collection. That copy is stored by Apple under your account; the developer can't see it. You can turn this off in Settings → [your name] → iCloud. The P-Dex home-screen widget reads a summary of the collection from the same device. If you export a backup, the file goes wherever you choose to save it, such as Files or iCloud Drive, and P-Dex never sees it.
 
 ## Camera
 

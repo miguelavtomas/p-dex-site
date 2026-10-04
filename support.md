@@ -10,7 +10,7 @@ Questions, ideas, or a card that won't scan? Email **mavtomas@icloud.com**. Ever
 
 **Prices look different from the shop.** Prices are market guides from TCGplayer (USD) and Cardmarket (EUR), updated at most once a day. When the two markets disagree a lot, P-Dex shows a range.
 
-**How do I move my collection to a new phone?** In the dex, open ⚙ OPTIONS → Export collection and save the file to iCloud Drive. On the new phone, use ⚙ OPTIONS → Restore from file.
+**How do I move my collection to a new phone?** If both phones use the same Apple Account with iCloud on, the collection follows you on its own. You can also open ⚙ OPTIONS → Export collection in the dex, save the file to iCloud Drive, and use ⚙ OPTIONS → Restore from file on the new phone.
 
 **Is P-Dex free?** Yes, for up to 150 different cards (extra copies don't count). A single, optional purchase unlocks an unlimited collection. Scanning, price checks, search and the widget are always free. There will never be a subscription or ads.
 

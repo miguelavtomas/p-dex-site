@@ -12,6 +12,10 @@ Questions, ideas, or a card that won't scan? Email **mavtomas@icloud.com**. Ever
 
 **How do I move my collection to a new phone?** In the dex, open ⚙ OPTIONS → Export collection and save the file to iCloud Drive. On the new phone, use ⚙ OPTIONS → Restore from file.
 
-**Is there a subscription?** No. P-Dex is a one-time purchase. It will never have a subscription or in-app purchases.
+**Is P-Dex free?** Yes, for up to 150 different cards (extra copies don't count). A single, optional purchase unlocks an unlimited collection. Scanning, price checks, search and the widget are always free. There will never be a subscription or ads.
+
+**I bought the unlimited collection on another iPhone.** Open ⚙ OPTIONS → Unlimited collection → Restore Purchases, signed in with the same Apple Account.
+
+**What's the tip jar?** Optional tips to say thanks. They don't unlock anything.
 
 [Home](index.html) · [Privacy Policy](privacy.html)

@@ -1,8 +1,8 @@
 # P-Dex Privacy Policy
 
-_Last updated: 2 October 2026_
+_Last updated: 4 October 2026_
 
-P-Dex is a card collection app for Pokémon TCG collectors. It is made by an independent developer in Portugal.
+P-Dex is a card collection app for trading card collectors. It is made by an independent developer in Portugal.
 
 ## The short version
 
@@ -26,9 +26,9 @@ To show card data, images and prices, P-Dex downloads public information from:
 
 These requests only ask for public card or price data. They carry nothing about you or your collection. Like any web request, they reveal your IP address to the service that answers them. Those services have their own privacy policies.
 
-## No subscriptions
+## Purchases
 
-P-Dex is a one-time purchase. It has no subscriptions and no in-app purchases, and it never will.
+P-Dex is free, with an optional one-time purchase (an unlimited collection) and optional tips. Purchases are handled entirely by Apple through the App Store; P-Dex never sees your payment details or Apple Account. There are no subscriptions and no ads.
 
 ## Children
 

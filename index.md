@@ -1,6 +1,6 @@
 # P-Dex
 
-A retro card dex for your trading card collection, for iPhone and the foldable iPhone.
+A retro card dex for your trading card collection. Optimised for iPhone Duo, works on every iPhone.
 
 - Scan cards with the camera, one at a time or a whole pile
 - Every English set, with TCGplayer and Cardmarket prices
